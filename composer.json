@@ -1,0 +1,19 @@
+{
+    "name": "hnsz/cdciaction-packed",
+    "description": "Continuous Integration&Deployement Featurette that explores GitHug Capabilities.",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^8.5@dev",
+        "hamcrest/hamcrest-php": "^2.0@dev",
+        "phpspec/prophecy": "^1.8@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hnsz dev",
+            "email": "hnszxy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
